@@ -1,4 +1,3 @@
 # Rstudio-git-demo
 practicing getting familliar with github
-This is my first commit
-I'm not trying to update another branch to make them different
+This will be a apt of my first branch that I merge to the main code
